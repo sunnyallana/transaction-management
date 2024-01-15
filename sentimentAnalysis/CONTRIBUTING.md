@@ -4,7 +4,7 @@ Welcome! We appreciate your interest in contributing to this project. Whether yo
 
 ## Bug Reports and Feature Requests
 
-If you encounter a bug or have a feature request, please [open an issue](https://github.com/sunnyallana/flaskProjects/sentimentalAnalysis/issues) on the GitHub repository. Provide as much detail as possible, including steps to reproduce the bug or a clear description of the requested feature.
+If you encounter a bug or have a feature request, please [open an issue](https://github.com/sunnyallana/flaskProjects/issues) on the GitHub repository. Provide as much detail as possible, including steps to reproduce the bug or a clear description of the requested feature.
 
 ## Contributing Code
 
